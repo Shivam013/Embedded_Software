@@ -9,14 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c>
+ * @brief C code for stats.c file
  *
- * <Add Extended Description Here>
+ * Implementation of statistical analysis in C language
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
- *
+ * @author Shivam Amin
+ * @date 09/02/2024
  */
 
 
@@ -26,6 +25,14 @@
 
 /* Size of the Data Set */
 #define SIZE (40)
+
+// double find_mean(unsigned char * arr);
+// void sort_array(unsigned char * arr);
+// void print_array(unsigned char * arr);
+// unsigned char find_maximum(unsigned char * arr);
+// unsigned char find_minimum(unsigned char * arr);
+// double find_median(unsigned char * arr);
+// void print_statistics(unsigned char * arr);
 
 void main() {
 
